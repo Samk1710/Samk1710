@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sampurna Pyne (Samk)</h1>
 <h3 align="center">A Computer Science and Engineering student.</h3>
 
-- 🔭 I’m currently working as **Security Intern at iiFON**
+- 🔭 I’m currently working as **DE Intern at RudraX**
+     I previously worked as a **Security Intern at iiFON**
 
 - 🌱 I’m currently learning **Security, Web 3.0 and Devops**
-
-- 👨‍💻 All of my projects are available at [samk1710.vercel.app](samk1710.vercel.app)
 
 - 💬 Ask me about **Security and Web3**
 
